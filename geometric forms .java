@@ -1,4 +1,9 @@
 // @author ZERGAOUI MOHAMED EL AMINE
+// @ version : 4.20
+// @date : 13/04/2022
+
+
+
 /* @program created  for :
  -- printing         rectangle
                      traingle / inversed triangle
@@ -9,8 +14,7 @@
 -- calculating angles of tringles and print triangle
 */
 
-// @date 13/04/2022
-// @verion 1.4
+
 
 import java.util.Scanner;
 

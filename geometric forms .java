@@ -1,18 +1,7 @@
 // @author ZERGAOUI MOHAMED EL AMINE
 // @ version : 4.20
 // @date : 13/04/2022
-
-
-
-/* @program created  for :
- -- printing         rectangle
-                     traingle / inversed triangle
-                     dens de s
-                     letter Z
-
--- validate type of triangle
--- calculating angles of tringles and print triangle
-*/
+// since : Java 8
 
 
 

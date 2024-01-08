@@ -257,7 +257,7 @@ public class Rectangle {
             if (q == 1){System.out.println("----------------------Exit-----------------"); sc.close();}// quit the program
 
 
-            System.out.print("\n-----------------    TP   ------------------------------------\n");
+            System.out.print("\n-----------------    TP   --------------------------\n");
             System.out.print("1-Rectangle\n2-dent_de_S\n3-Triangle \n4-triangle inverse\n5-Letter Z\n6-Verify traingle:\n");
             int d = sc.nextInt();
             switch (d){
